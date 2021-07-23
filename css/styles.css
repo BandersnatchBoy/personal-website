@@ -55,7 +55,7 @@ a {
   width: 100%;
   max-width: 200px;
 }
-.img-coursera{
+.img-lr , .img-angular , .img-coursera {
   width: 100%;
   max-width: 200px;
 }
@@ -201,4 +201,3 @@ a {
     display: none;
   }
 }
-
